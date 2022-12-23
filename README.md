@@ -17,7 +17,10 @@ A. GPIO
 1. Pada program ini diharapkan bisa mengndalikan satu LED dengan push button yang mana led bisa nyala apabila push button ditekan dan akan mati jika dilepaskan
 
 
-https://user-images.githubusercontent.com/121172074/209062784-9f96decf-ed87-42d3-bd2c-4867b52705eb.mp4
+
+https://user-images.githubusercontent.com/121172074/209278488-fd56521a-e1fe-4978-b0f2-8e86041bdf72.mp4
+
+
 
 
 2. Selanjtunya pada program GPIO yang kedua ini menambahkan 1 LED dengan estimasi waktu 5 detik yang mana LED akan mati selama 5 setik dan nyala selama 5 detik, jadi apabila tetap ditekan push buttonnya namun waktu sudah habis LED akan tetap mati
@@ -48,4 +51,20 @@ https://user-images.githubusercontent.com/121172074/209067060-24155b49-0197-4393
 
 
 C. ADC dan DAC
-1. 
+1. Pada percobaan kali ini menggunakan potensiometer. Program ini menghasilkan output apabila potensiometer diputar semakin ke kanan maka nilainya akan semakin bertambah dan apabila diputar ke kiri semakin berkurang. 
+
+
+https://user-images.githubusercontent.com/121172074/209260152-9453205d-2e8a-49fe-8c5d-2fe2d85ba86e.mp4
+
+
+
+2. Percobaan ini ditambahkan dengan LED dan GPIO program ini jika dijalankan akan menghasilkan output apabila pentisiometer diputar ke kanan maka lampu akan semakin menyala dan begitupun sebaliknya serta 
+
+
+https://user-images.githubusercontent.com/121172074/209268953-ebf8bc94-e46b-4a13-8a37-f848641e2988.mp4
+
+
+
+
+ 
+
